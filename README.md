@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="freepik__create-a-logo-with-the-text-the-great-parthicle-wi__45726.png" width="260" alt="The Great Parthicle logo" />
-</p>
-
-<p align="center">
   <img src="assets/hero.svg" width="100%" alt="Rajarshee (Parth) Ganguly — AI Engineer building applied AI systems and targeting Dubai / UAE roles." />
 </p>
 
@@ -11,6 +7,8 @@
 [![PotatoCS / Odysseus — released Windows local AI system](assets/system-potatocs.svg)](https://github.com/parthganguly/PotatoCS)
 
 [![Istakir — deployed evidence infrastructure for property decisions](assets/system-istakir.svg)](https://istakir.vercel.app)
+
+[![Insight Insulin — applied AI meal analysis with deterministic scoring boundaries](assets/system-insight.svg)](https://github.com/parthganguly/insight-insulin-app)
 
 [![Parthicle Reader — working multi-format Android reader](assets/system-parthicle.svg)](https://github.com/parthganguly/okular-android-prototype)
 
@@ -25,7 +23,7 @@
 ## Engineering range
 
 **AI systems** — RAG · LLM APIs · local inference · OCR · model evaluation  
-**Applications** — Python · TypeScript · FastAPI · React / Next.js · REST APIs  
+**Applications** — Python · TypeScript · FastAPI · React / Next.js · Ionic · Capacitor · REST APIs  
 **Systems** — Rust · C++ · Android · SQLite · PostgreSQL  
 **Delivery** — Playwright · Cypress · Vitest · GitHub Actions · Vercel
 
