@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 210" role="img" aria-labelledby="title desc">
+<title id="title">Parthicle Reader</title>
+<desc id="desc">Working Android multi-format reader built on Okular and KDE using Qt 6, QML, C++, Java and JNI.</desc>
+<rect width="1200" height="210" rx="16" fill="#0b2235"/>
+<rect width="7" height="210" rx="3.5" fill="#0ed1ef"/>
+<path d="M84 0V210M905 0V210" stroke="#18435d"/>
+<circle cx="47" cy="104" r="20" fill="none" stroke="#0ed1ef" stroke-opacity=".22"/>
+<circle cx="47" cy="104" r="11" fill="none" stroke="#70d9ec" stroke-opacity=".42"/>
+<text x="28" y="42" fill="#70d9ec" font-size="13" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="2">03</text>
+<text x="114" y="54" fill="#eafcff" font-size="32" font-weight="700" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif">Parthicle Reader</text>
+<text x="114" y="91" fill="#d5f3f1" font-size="18" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif">A multi-format Android reader built on Okular / KDE.</text>
+<text x="114" y="133" fill="#9cc6d3" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="1">ANDROID · QT 6 · KIRIGAMI/QML · C++ · JAVA · JNI</text>
+<text x="114" y="176" fill="#6f9cab" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="1.4">physical-device QA · system TTS · multi-format document engine</text>
+<text x="945" y="52" fill="#70d9ec" font-size="11" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="1.6">STATE</text>
+<circle cx="951" cy="90" r="5" fill="#0ed1ef"/>
+<text x="969" y="96" fill="#eafcff" font-size="15" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="1.1">WORKING PRODUCT</text>
+<path d="M945 123H1160" stroke="#18435d"/>
+<text x="945" y="153" fill="#6f9cab" font-size="11" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="1.4">OPEN SYSTEM</text>
+<text x="945" y="176" fill="#9cc6d3" font-size="12" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif">inspect the work</text>
+</svg>
