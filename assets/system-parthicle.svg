@@ -6,7 +6,7 @@
 <path d="M84 0V210M905 0V210" stroke="#15324a"/>
 <circle cx="47" cy="104" r="20" fill="none" stroke="#0de3f4" stroke-opacity=".25"/>
 <circle cx="47" cy="104" r="11" fill="none" stroke="#138fd0" stroke-opacity=".5"/>
-<text x="28" y="42" fill="#f6b72e" font-size="13" font-weight="700" font-family="Georgia, Times New Roman, serif" letter-spacing="1.5">03</text>
+<text x="28" y="42" fill="#f6b72e" font-size="13" font-weight="700" font-family="Georgia, Times New Roman, serif" letter-spacing="1.5">04</text>
 <text x="114" y="54" fill="#f7fbfc" font-size="32" font-weight="700" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif">Parthicle Reader</text>
 <text x="114" y="91" fill="#cfeef2" font-size="18" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif">A multi-format Android reader built on Okular / KDE.</text>
 <text x="114" y="133" fill="#8eb8c7" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="1">ANDROID · QT 6 · KIRIGAMI/QML · C++ · JAVA · JNI</text>
