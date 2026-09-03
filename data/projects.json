@@ -1,0 +1,16 @@
+{
+  "owner": "parthganguly",
+  "activity_repositories": [
+    {"repo": "PotatoCS", "label": "PotatoCS"},
+    {"repo": "okular-android-prototype", "label": "Parthicle Reader"},
+    {"repo": "insight-insulin-app", "label": "Insight"},
+    {"repo": "chatsense", "label": "ChatSense"},
+    {"repo": "last-idea", "label": "Last Idea"},
+    {"repo": "dotfiles", "label": "dotfiles"}
+  ],
+  "release_repository": "PotatoCS",
+  "deployment": {
+    "label": "Istakir",
+    "url": "https://istakir.vercel.app"
+  }
+}
