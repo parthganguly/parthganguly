@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Rajarshee Parth Ganguly — AI Engineer</title>
+<desc id="desc">Parthicle Blue engineering profile header for an AI engineer targeting Dubai and the UAE.</desc>
+<defs>
+  <linearGradient id="ocean" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#071826"/>
+    <stop offset="0.62" stop-color="#0b2235"/>
+    <stop offset="1" stop-color="#0f85c5"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="360" rx="18" fill="url(#ocean)"/>
+<path d="M0 289H1200" stroke="#18435d"/>
+<path d="M858 0V360" stroke="#18435d"/>
+<path d="M790 332 C930 244 1065 248 1200 323" fill="none" stroke="#0ed1ef" stroke-opacity=".26" stroke-width="2.5"/>
+<path d="M778 300 C920 205 1080 216 1200 292" fill="none" stroke="#70d9ec" stroke-opacity=".34" stroke-width="2"/>
+<path d="M825 270 C955 185 1095 198 1200 258" fill="none" stroke="#d5f3f1" stroke-opacity=".18" stroke-width="1.5"/>
+<circle cx="1116" cy="67" r="5" fill="#0ed1ef" fill-opacity=".88"/>
+<circle cx="1150" cy="45" r="3" fill="#70d9ec"/>
+<circle cx="1072" cy="93" r="3.5" fill="#0f85c5"/>
+<circle cx="42" cy="42" r="6" fill="#0ed1ef"/>
+<text x="62" y="48" fill="#9cc6d3" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="2">PARTHICLE BLUE / ENGINEERING PROFILE</text>
+<text x="42" y="123" fill="#eafcff" font-size="42" font-weight="700" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" letter-spacing="-1.2">RAJARSHEE / PARTH GANGULY</text>
+<text x="42" y="164" fill="#70d9ec" font-size="16" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="2.2">AI ENGINEER · APPLIED AI · SYSTEMS</text>
+<text x="42" y="215" fill="#d5f3f1" font-size="20" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif">
+  <tspan x="42" dy="0">I build systems around models — so evidence, software and deployment</tspan>
+  <tspan x="42" dy="30">still matter after the demo.</tspan>
+</text>
+<text x="42" y="326" fill="#8ab8c8" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="1.8">BUILD / VERIFY / SHIP</text>
+<text x="455" y="326" fill="#8ab8c8" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="1.8">PYTHON · TYPESCRIPT · RAG · LLMs · RUST · C++</text>
+<text x="898" y="73" fill="#70d9ec" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="1.8">CURRENT VECTOR</text>
+<text x="898" y="118" fill="#eafcff" font-size="22" font-weight="700" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif">Mumbai</text>
+<path d="M900 145H1132" stroke="#70d9ec" stroke-opacity=".42" stroke-width="2"/>
+<path d="M1118 137L1132 145L1118 153" fill="none" stroke="#0ed1ef" stroke-width="2"/>
+<text x="898" y="190" fill="#eafcff" font-size="22" font-weight="700" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif">Dubai / UAE</text>
+<text x="898" y="217" fill="#9cc6d3" font-size="13" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif">targeting applied AI roles</text>
+<text x="898" y="326" fill="#0ed1ef" font-size="12" font-weight="700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" letter-spacing="1.6">OPEN TO THE RIGHT TEAM</text>
+</svg>
