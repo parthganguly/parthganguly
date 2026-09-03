@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+<title id="title">Live engineering signal</title>
+<desc id="desc">Generated profile signal showing the latest PotatoCS release, Istakir deployment reachability, and the most recent curated public repository activity.</desc>
+<style>.bg{fill:#071826}.line{stroke:#18435d}.soft{stroke:#12364d}.label{fill:#6f9cab;font:11px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;letter-spacing:1.5px}.value{fill:#eafcff;font:700 16px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}.state{fill:#0ed1ef;font:700 12px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;letter-spacing:1.3px}.state-muted{fill:#9cc6d3;font:12px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;letter-spacing:1.3px}.meta{fill:#70d9ec;font:12px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;letter-spacing:1.8px}.foot{fill:#5e8796;font:10px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;letter-spacing:1.2px}</style>
+<rect width="1200" height="230" rx="16" class="bg"/>
+<circle cx="28" cy="28" r="5" fill="#0ed1ef"/>
+<circle cx="1150" cy="27" r="10" fill="none" stroke="#0ed1ef" stroke-opacity=".18"/>
+<circle cx="1150" cy="27" r="4" fill="#70d9ec" fill-opacity=".6"/>
+<text x="46" y="33" class="meta">LIVE SIGNAL / GENERATED FROM PUBLIC ENDPOINTS</text>
+<path d="M28 58H1172" class="line"/>
+<text x="28" y="92" class="label">RELEASE</text>
+<text x="210" y="92" class="value">POTATOCS v0.3.1</text>
+<text x="1000" y="92" class="state">PUBLISHED</text>
+<path d="M28 111H1172" class="soft"/>
+<text x="28" y="143" class="label">DEPLOYMENT</text>
+<text x="210" y="143" class="value">ISTAKIR</text>
+<text x="1000" y="143" class="state">REACHABLE</text>
+<path d="M28 162H1172" class="soft"/>
+<text x="28" y="194" class="label">PUBLIC ACTIVITY</text>
+<text x="210" y="194" class="value">POTATOCS · 03 SEP 2026</text>
+<text x="1000" y="194" class="state-muted">DEFAULT BRANCH</text>
+<text x="28" y="218" class="foot">public signals only · private repositories are never queried by this workflow</text>
+</svg>
