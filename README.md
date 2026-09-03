@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="freepik__create-a-logo-with-the-text-the-great-parthicle-wi__45726.png" width="260" alt="The Great Parthicle logo" />
+</p>
+
+<p align="center">
   <img src="assets/hero.svg" width="100%" alt="Rajarshee (Parth) Ganguly — AI Engineer building applied AI systems and targeting Dubai / UAE roles." />
 </p>
 
