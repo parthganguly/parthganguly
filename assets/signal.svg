@@ -17,7 +17,7 @@
 <text x="1000" y="143" class="state">REACHABLE</text>
 <path d="M28 162H1172" class="soft"/>
 <text x="28" y="194" class="label">PUBLIC ACTIVITY</text>
-<text x="210" y="194" class="value">POTATOCS · 03 SEP 2026</text>
+<text x="210" y="194" class="value">INSIGHT · 12 SEP 2026</text>
 <text x="1000" y="194" class="state-muted">DEFAULT BRANCH</text>
 <text x="28" y="218" class="foot">public signals only · private repositories are never queried by this workflow</text>
 </svg>
